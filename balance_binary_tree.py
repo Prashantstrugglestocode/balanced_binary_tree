@@ -51,7 +51,7 @@ node.insert(4)
 node.insert(10)
 node.insert(102)
 
-print(node.check_balance())  # Output: False
+print(node.check_balance()) 
 
 end = time.end()
 print(start - end) 
